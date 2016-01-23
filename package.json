@@ -1,0 +1,26 @@
+{
+  "name": "graphs",
+  "version": "1.0.0",
+  "description": "A set of javascript tests designed to get you to implement graphs.",
+  "main": "graph.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "mocha tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brindaban/graphs.git"
+  },
+  "author": "brindaban",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brindaban/graphs/issues"
+  },
+  "homepage": "https://github.com/brindaban/graphs#readme",
+  "devDependencies": {
+    "chai": "^3.4.1",
+    "mocha": "^2.3.4"
+  }
+}
